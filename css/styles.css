@@ -76,6 +76,11 @@
   position: fixed;
   z-index: 3;
   width: 100%;
+  
+}
+
+.navbar-dark, .bg-dark {
+  color: #09721b;
 }
 
 iframe {
@@ -200,7 +205,7 @@ div.card {
   background: linear-gradient(to bottom, #ffec00 0, #ffc600 100%);
 }
 .goplaythegame {
-  color: rgba(241, 239, 76, 0.932)
+  color: rgba(250, 172, 26, 0.932)
 }
 .ab-journey-highlight .btn--custom img {
   max-height: 80px;
@@ -235,6 +240,6 @@ div.card {
 }
 
 .install1 {
-  color: #6832fc;
+  color: #050505;
 }
 
