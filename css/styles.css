@@ -47,6 +47,16 @@
   }
 }
 
+.lead {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.leadd {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .centerr {
     display: block;
     margin-left: auto;
@@ -248,4 +258,3 @@ div.card {
 .install1 {
   color: #050505;
 }
-
